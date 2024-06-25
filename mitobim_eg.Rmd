@@ -13,10 +13,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Github repo
 
-If you want to try out any of this code, you should clone the repo. You can knit the R markdown script (`San_Teodoro_hyena.Rmd`) in R studio to generate the `html`
+If you want to try out any of this code, you should clone the repo. You can knit the R markdown script (`mitobim_eg.Rmd`) in R studio to generate the `html`
 
 ```bash
-git clone https://github.com/popomics/Catalano_et_al_2024_San_Teodoro_hyena.git
+git clone https://github.com/drabarlow/mitobim_eg.git
 ```
 
 ## Preamble and Prerequisites

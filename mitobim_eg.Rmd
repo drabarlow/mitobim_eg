@@ -1,0 +1,105 @@
+---
+title: "Mitochondrial genome assembly by iterative mapping using MITObim"
+author: "Axel Barlow"
+date: "2024-06-25"
+output:
+  html_document:
+    keep_md: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Github repo
+
+If you want to try out any of this code, you should clone the repo. You can knit the R markdown script (`San_Teodoro_hyena.Rmd`) in R studio to generate the `html`
+
+```bash
+git clone https://github.com/popomics/Catalano_et_al_2024_San_Teodoro_hyena.git
+```
+
+## Preamble and Prerequisites
+
+This workflow shows how to assemble a mitochondrial genome from raw shotgun sequencing data using iterative mapping. The reads are mapped to the a (reasonably close) reference mitochondrial sequence, the reference is updated and the reads mapped again. The result is the mitochondrial genome sequence of your sample
+
+You need the following installed on your system:
+
+- `MITObim` has several dependencies, I usually install with conda [`conda install mitobim`]
+- `mira-assember`
+- `samtools`
+
+You need the following data:
+
+- `vgw+s1549_mappable_500k.fastq` this is 100k trimmed and merged fastq sequencing from a snake. Note you probably need 500k-1M shotgun reads for a reasonable mitochondrial assembly
+- `NC_041068_E_dione_mtDNA.fasta` this is the NCBI mitochondrial genome sequence of *Elaphe dione*
+
+**N.B.! The quality of your assembly depends on the reference. You should be confident the starting reference is high quality and (ideally) does not have genome rearrangements with respect to the sample**
+
+## Run MITObim
+
+```bash
+# You can check the mitobim options with 
+MITObim.pl
+
+# here I run 30 iterations with default parameters, and -quick to specifiy the reference
+MITObim.pl -end 30 -sample s1549 -ref E_dione -readpool vgw+s1549_mappable_100k.fastq -quick NC_041068_E_dione_mtDNA.fasta
+
+# sometimes you gent the follwoing error
+# mirabait: loadlocale.c:130: _nl_intern_locale_data: Assertion `cnt < (sizeof (_nl_value_type_LC_TIME) / sizeof (_nl_value_type_LC_TIME[0]))' failed.
+# Which seems to be fixed with:
+export LC_ALL=C
+
+# MITObim should complete in 17 iterations: 
+==============
+ ITERATION 17
+==============
+Jun 25 15:08:49
+
+
+recover backbone by running miraconvert on maf file
+
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 273 reads
+assembly contains 1 contig(s)
+contig length: 17310
+
+MITObim has reached a stationary read number after 17 iterations!!
+```
+
+## Inspect results
+
+```bash
+# your results are here:
+cd iteration17/s1549-E_dione_assembly/s1549-E_dione_d_results/
+
+# the mapped reads are in maf format, we need to convert to sam with miraconvert
+miraconvert -f maf -t sam s1549-E_dione_out.maf s1549-E_dione_out.sam
+
+# convert to bam and index
+samtools view -b s1549-E_dione_out.sam > s1549-E_dione_out.bam
+samtools index s1549-E_dione_out.bam
+
+# view with samtools tview
+# Note I specify a "padded" fasta sequence as reference because this pads any gaps/insertions among the reads
+samtools tview s1549-E_dione_out.bam s1549-E_dione_out_E_dione.padded.fasta
+```
+
+## Finishing up
+
+```bash
+# et voila, your mitochondrial genome sequence is here:
+less s1549-E_dione_out_s1549.unpadded.fasta
+```
+
+**Next steps**
+
+- You need to check your aligned reads thoroughly in tview to check for any weirdness/inconsistencies
+- If the sequence is incomplete or with many incorrectly aligned reads, tweek the `MITObim` parameters
+- If the coverage is high/low then reduce/increase the number of input reads
+- We have generally validated the new sequence by mapping back to it using the more stringent `bwa aln`. If you have additional samples this is probably a better option (using the `MITObim` sequencing as mapping reference)

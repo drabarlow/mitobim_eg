@@ -1,0 +1,160 @@
+#
+# conName	fromPadded	toPadded	fromUnPadded	toUnPadded	len	type	SNPqual	qualA	qualC	qualG	qualT	qual*	comment
+#
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	0	4	0	4	5	MIRA							Assembled with MIRA
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	169	169	169	169	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	333	333	333	333	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	334	334	334	334	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	400	400	400	400	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	414	414	414	414	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	464	464	464	464	1	IUPc							Strain 's1549': S
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	464	464	464	464	1	STMS							Solved vote:  / txt (4) C 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	464	464	464	464	1	UNSc							high
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	467	467	467	467	1	IUPc							Strain 's1549': W
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	467	467	467	467	1	STMS							Solved vote:  / txt (4) A 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	467	467	467	467	1	UNSc							high
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	469	469	469	469	1	IUPc							Strain 's1549': S
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	469	469	469	469	1	STMS							Solved vote:  / txt (4) C 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	469	469	469	469	1	UNSc							high
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	470	470	470	470	1	IUPc							Strain 's1549': S
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	470	470	470	470	1	STMS							Solved vote:  / txt (4) C 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	470	470	470	470	1	UNSc							high
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	473	473	473	473	1	IUPc							Strain 's1549': R
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	473	473	473	473	1	STMS							Solved vote:  / txt (4) A 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	473	473	473	473	1	UNSc							high
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	476	476	476	476	1	IUPc							Strain 's1549': M
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	476	476	476	476	1	STMS							Solved vote:  / txt (4) A 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	476	476	476	476	1	UNSc							high
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	713	713	713	713	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	857	857	857	857	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1430	1430	1430	1430	1	IUPc							Strain 's1549': Y
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1430	1430	1430	1430	1	STMS							Solved vote:  / txt (4) C 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1430	1430	1430	1430	1	UNSc							high
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1435	1435	1435	1435	1	IUPc							Strain 's1549': Y
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1435	1435	1435	1435	1	STMS							Solved vote:  / txt (4) C 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1435	1435	1435	1435	1	UNSc							high
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1436	1436	1436	1436	1	IUPc							Strain 's1549': R
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1436	1436	1436	1436	1	STMS							Solved vote:  / txt (4) G 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1436	1436	1436	1436	1	UNSc							high
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1437	1437	1437	1437	1	IUPc							Strain 's1549': K
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1437	1437	1437	1437	1	STMS							Solved vote:  / txt (4) G 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1437	1437	1437	1437	1	UNSc							high
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1438	1438	1438	1438	1	IUPc							Strain 's1549': R
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1438	1438	1438	1438	1	STMS							Solved vote:  / txt (4) G 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1438	1438	1438	1438	1	UNSc							high
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1439	1439	1439	1439	1	IUPc							Strain 's1549': M
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1439	1439	1439	1439	1	STMS							Solved vote:  / txt (4) C 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1439	1439	1439	1439	1	UNSc							high
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1441	1441	1441	1441	1	IUPc							Strain 's1549': Y
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1441	1441	1441	1441	1	STMS							Solved vote:  / txt (4) C 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1441	1441	1441	1441	1	UNSc							high
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1448	1448	1448	1448	1	IUPc							Strain 's1549': S
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1448	1448	1448	1448	1	STMS							Solved vote:  / txt (4) C 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1448	1448	1448	1448	1	UNSc							high
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1450	1450	1450	1450	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1450	1450	1450	1450	1	STMS							Solved vote:  / txt (4) C 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1452	1452	1452	1452	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1452	1452	1452	1452	1	STMS							Solved vote:  / txt (4) G 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1453	1453	1453	1453	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1453	1453	1453	1453	1	STMS							Solved vote:  / txt (4) T 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1455	1455	1455	1455	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1455	1455	1455	1455	1	STMS							Solved vote:  / txt (4) G 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1457	1457	1457	1457	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1457	1457	1457	1457	1	STMS							Solved vote:  / txt (4) A 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	2156	2156	2156	2156	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	2172	2172	2172	2172	1	IUPc							Strain 's1549': K
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	2172	2172	2172	2172	1	STMS							Solved vote:  / txt (4) G 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	2172	2172	2172	2172	1	UNSc							high
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	2194	2194	2194	2194	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	2252	2252	2252	2252	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	2255	2255	2255	2255	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	2310	2310	2308	2308	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	2314	2314	2312	2312	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	2315	2315	2313	2313	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	2316	2316	2314	2314	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	2317	2317	2315	2315	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	2318	2318	2316	2316	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	2319	2319	2317	2317	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	2321	2321	2319	2319	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	2322	2322	2320	2320	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	2324	2324	2322	2322	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	2382	2382	2380	2380	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3398	3398	3396	3396	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3399	3399	3397	3397	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3400	3400	3398	3398	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3401	3401	3399	3399	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3403	3403	3401	3401	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3404	3404	3402	3402	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3525	3525	3519	3519	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3539	3539	3533	3533	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3541	3541	3535	3535	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3542	3542	3536	3536	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3543	3543	3537	3537	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3546	3546	3540	3540	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3547	3547	3541	3541	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3548	3548	3542	3542	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3551	3551	3545	3545	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3554	3554	3548	3548	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3555	3555	3549	3549	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3557	3557	3551	3551	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3560	3560	3554	3554	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	4284	4284	4278	4278	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	4285	4285	4279	4279	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	4310	4310	4303	4303	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	4314	4314	4307	4307	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	4315	4315	4308	4308	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	4317	4317	4310	4310	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6196	6196	6189	6189	1	IUPc							Strain 's1549': R
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6196	6196	6189	6189	1	STMS							Solved vote:  / txt (4) A 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6196	6196	6189	6189	1	UNSc							high
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6545	6545	6538	6538	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6832	6832	6825	6825	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6955	6955	6948	6948	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	9674	9674	9667	9667	1	IUPc							Strain 's1549': M
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	9674	9674	9667	9667	1	STMS							Solved vote:  / txt (4) C 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	9674	9674	9667	9667	1	UNSc							high
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10260	10260	10253	10253	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10323	10323	10313	10313	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10325	10325	10315	10315	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10328	10328	10318	10318	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10331	10331	10321	10321	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10333	10333	10323	10323	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10334	10334	10324	10324	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10335	10335	10325	10325	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10337	10337	10327	10327	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10628	10628	10618	10618	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10667	10667	10657	10657	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10671	10671	10661	10661	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10673	10673	10663	10663	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10674	10674	10664	10664	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10677	10677	10667	10667	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10682	10682	10672	10672	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10693	10693	10680	10680	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10698	10698	10685	10685	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10716	10716	10699	10699	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10718	10718	10701	10701	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10719	10719	10702	10702	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10720	10720	10703	10703	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10721	10721	10704	10704	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10722	10722	10705	10705	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10897	10897	10880	10880	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10912	10912	10895	10895	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	12447	12447	12430	12430	1	IUPc							Strain 's1549': Y
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	12447	12447	12430	12430	1	STMS							Solved vote:  / txt (4) C 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	12447	12447	12430	12430	1	UNSc							high
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	12448	12448	12431	12431	1	IUPc							Strain 's1549': R
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	12448	12448	12431	12431	1	STMS							Solved vote:  / txt (4) A 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	12448	12448	12431	12431	1	UNSc							high
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	12449	12449	12432	12432	1	IUPc							Strain 's1549': R
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	12449	12449	12432	12432	1	STMS							Solved vote:  / txt (4) A 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	12449	12449	12432	12432	1	UNSc							high
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	12451	12451	12434	12434	1	IUPc							Strain 's1549': W
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	12451	12451	12434	12434	1	STMS							Solved vote:  / txt (4) A 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	12451	12451	12434	12434	1	UNSc							high
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	12457	12457	12440	12440	1	IUPc							Strain 's1549': S
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	12457	12457	12440	12440	1	STMS							Solved vote:  / txt (4) C 30  is in  
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	12457	12457	12440	12440	1	UNSc							high
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	15462	15462	15444	15444	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	15507	15507	15489	15489	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	15521	15521	15503	15503	1	ESDN							
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	15525	15525	15507	15507	1	ESDN							

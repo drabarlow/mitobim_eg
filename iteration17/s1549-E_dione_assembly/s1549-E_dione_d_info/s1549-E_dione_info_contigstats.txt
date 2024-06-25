@@ -1,0 +1,2 @@
+# name              	length	av.qual	#-reads	mx.cov.	av.cov	GC%	CnIUPAC	CnFunny	CnN	CnX	CnGap	CnNoCov
+NC_041068.1_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	17310	41	274	17	5.73	40.18	0	0	7445	0	18	0

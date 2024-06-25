@@ -31,14 +31,17 @@ You need the following installed on your system:
 
 You need the following data:
 
-- `vgw+s1549_mappable_500k.fastq` this is 100k trimmed and merged fastq sequencing from a snake. Note you probably need 500k-1M shotgun reads for a reasonable mitochondrial assembly
+- `vgw+s1549_mappable_500k.fastq.gz` this is 100k trimmed and merged fastq sequencing from a snake. Note you probably need 500k-1M shotgun reads for a reasonable mitochondrial assembly
 - `NC_041068_E_dione_mtDNA.fasta` this is the NCBI mitochondrial genome sequence of *Elaphe dione*
 
 **N.B.! The quality of your assembly depends on the reference. You should be confident the starting reference is high quality and (ideally) does not have genome rearrangements with respect to the sample**
 
-## Run MITObim
+## Run `MITObim`
 
 ```bash
+# uncompress the fastq
+gunzip vgw+s1549_mappable_100k.fastq.gz
+
 # You can check the mitobim options with 
 MITObim.pl
 

@@ -381,8 +381,8 @@ with conda [<code>conda install mitobim</code>]</li>
 </ul>
 <p>You need the following data:</p>
 <ul>
-<li><code>vgw+s1549_mappable_500k.fastq</code> this is 100k trimmed and
-merged fastq sequencing from a snake. Note you probably need 500k-1M
+<li><code>vgw+s1549_mappable_500k.fastq.gz</code> this is 100k trimmed
+and merged fastq sequencing from a snake. Note you probably need 500k-1M
 shotgun reads for a reasonable mitochondrial assembly</li>
 <li><code>NC_041068_E_dione_mtDNA.fasta</code> this is the NCBI
 mitochondrial genome sequence of <em>Elaphe dione</em></li>
@@ -393,8 +393,11 @@ You should be confident the starting reference is high quality and
 sample</strong></p>
 </div>
 <div id="run-mitobim" class="section level2">
-<h2>Run MITObim</h2>
-<pre class="bash"><code># You can check the mitobim options with 
+<h2>Run <code>MITObim</code></h2>
+<pre class="bash"><code># uncompress the fastq
+gunzip vgw+s1549_mappable_100k.fastq.gz
+
+# You can check the mitobim options with 
 MITObim.pl
 
 # here I run 30 iterations with default parameters, and -quick to specifiy the reference
